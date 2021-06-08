@@ -12,6 +12,7 @@
 
 #membuat home.php
 ![Screenshot_183](https://user-images.githubusercontent.com/81457697/121102520-fbe06900-c827-11eb-8f38-adb8a685aa00.png)
+
 ![Screenshot_184](https://user-images.githubusercontent.com/81457697/121102523-fe42c300-c827-11eb-9efa-01a3ca5c17b0.png)
 
 #membuat about.php
@@ -19,6 +20,7 @@
 
 #hasilnya
 ![Screenshot_171](https://user-images.githubusercontent.com/81457697/121102607-2fbb8e80-c828-11eb-883d-142d29184988.png)
+
 ![Screenshot_172](https://user-images.githubusercontent.com/81457697/121102608-31855200-c828-11eb-9eec-ed10a56738f0.png)
 
 #tugas dan pertanyaan
@@ -44,12 +46,16 @@ database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 #membuat tambah.php
 ![Screenshot_190](https://user-images.githubusercontent.com/81457697/121104021-5929e980-c82b-11eb-8f2a-32b99ffb0228.png)
+
 ![Screenshot_191](https://user-images.githubusercontent.com/81457697/121104022-5c24da00-c82b-11eb-8b6e-3b3feb02d8b0.png)
+
 ![Screenshot_192](https://user-images.githubusercontent.com/81457697/121104028-5dee9d80-c82b-11eb-91ee-6513fdc513e0.png)
 
 #membuat menu ubah.php
 ![Screenshot_193](https://user-images.githubusercontent.com/81457697/121104275-e10ff380-c82b-11eb-8428-756df66407ba.png)
+
 ![Screenshot_194](https://user-images.githubusercontent.com/81457697/121104293-ea00c500-c82b-11eb-8c66-f0d75a954197.png)
+
 ![Screenshot_195](https://user-images.githubusercontent.com/81457697/121104302-ef5e0f80-c82b-11eb-8f13-becb9a513c98.png)
 
 #membuat menu hapus.php
@@ -63,8 +69,11 @@ database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
 #hasilnya seperti berikut
 ![Screenshot_177](https://user-images.githubusercontent.com/81457697/121104982-5b8d4300-c82d-11eb-95aa-bf1b280418dd.png)
+
 ![Screenshot_178](https://user-images.githubusercontent.com/81457697/121105005-68aa3200-c82d-11eb-9985-c795ee2610c0.png)
+
 ![Screenshot_179](https://user-images.githubusercontent.com/81457697/121105035-752e8a80-c82d-11eb-9bf6-dd36a775dd1c.png)
+
 
 
 
